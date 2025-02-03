@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vistej/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
