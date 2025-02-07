@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
+| [0806-domino-and-tromino-tiling](https://github.com/vistej/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
