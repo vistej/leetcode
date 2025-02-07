@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
 | [0806-domino-and-tromino-tiling](https://github.com/vistej/leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
