@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vistej/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/vistej/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
