@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
