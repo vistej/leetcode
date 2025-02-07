@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
