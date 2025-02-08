@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/vistej/leetcode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/vistej/leetcode/tree/master/0401-binary-watch) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/vistej/leetcode/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
