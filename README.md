@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -96,4 +97,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
