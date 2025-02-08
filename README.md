@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
+| [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -56,10 +58,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
