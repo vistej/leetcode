@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vistej/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vistej/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
+| [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
