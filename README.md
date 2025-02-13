@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vistej/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vistej/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
