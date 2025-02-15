@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vistej/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/vistej/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/vistej/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/vistej/leetcode/tree/master/0401-binary-watch) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/vistej/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
 | ------- |
