@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+| [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/vistej/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/vistej/leetcode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
+| [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vistej/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vistej/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/vistej/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/vistej/leetcode/tree/master/0401-binary-watch) |
+| [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vistej/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vistej/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
