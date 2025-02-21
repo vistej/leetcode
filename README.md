@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vistej/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/vistej/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vistej/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/vistej/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Trie
@@ -151,14 +153,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -185,4 +190,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
