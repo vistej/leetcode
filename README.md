@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vistej/leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vistej/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/vistej/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vistej/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/vistej/leetcode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/vistej/leetcode/tree/master/1160-letter-tile-possibilities) |
