@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vistej/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/vistej/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vistej/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/vistej/leetcode/tree/master/0198-house-robber) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vistej/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/vistej/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vistej/leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vistej/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vistej/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode/tree/master/0347-top-k-frequent-elements) |
