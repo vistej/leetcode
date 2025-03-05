@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/vistej/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vistej/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/vistej/leetcode/tree/master/0739-daily-temperatures) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vistej/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vistej/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/vistej/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vistej/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vistej/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/vistej/leetcode/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vistej/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/vistej/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/vistej/leetcode/tree/master/3447-clear-digits) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vistej/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
