@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vistej/leetcode/tree/master/0125-valid-palindrome) |
 | [0475-heaters](https://github.com/vistej/leetcode/tree/master/0475-heaters) |
 | [1894-merge-strings-alternately](https://github.com/vistej/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/vistej/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vistej/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vistej/leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/vistej/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/vistej/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vistej/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
