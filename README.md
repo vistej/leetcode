@@ -178,17 +178,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vistej/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vistej/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vistej/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vistej/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/vistej/leetcode/tree/master/0257-binary-tree-paths) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vistej/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vistej/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0739-daily-temperatures](https://github.com/vistej/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/vistej/leetcode/tree/master/0883-car-fleet) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vistej/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
